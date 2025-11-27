@@ -74,6 +74,8 @@ Your submission should look like this.
 
 <img width="450" height="371" alt="image" src="https://github.com/user-attachments/assets/61fdb1cd-51a0-4c03-ad8b-7eb35a92aa79" />
 
+Press enter to Submit!
+
 ### Opening an Existing Thread
 
 Navigate to the ```#leetcode``` channel on the left sidebar.
@@ -91,5 +93,3 @@ Right click on my message.
 Click on Create Thread.
 
 <img width="227" height="626" alt="image" src="https://github.com/user-attachments/assets/d33365a4-ce02-4dbc-ad22-b007abcbec64" />
-
-Press enter to Submit!
