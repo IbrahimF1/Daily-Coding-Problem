@@ -2,7 +2,7 @@
 
 Before getting started on doing coding problems I wanted to share how to confirm your participation, but more importantly to explain why I am doing it this way. The current state of interviews for tech roles and software development usually involves a mix of behavioral and technical interviews. Most problems given at technical interviews involves a variation or a direct copy of a problem found on Leetcode.
 
-Leetcode style problems are almost unavoidable, but also tend to be a pain for most people applying for a software engineering role. As I'm sure the other people who have done Leetcode before know, it is hard to start and easy to put down. So, I want to make a system that holds us accountable to commiting to a problem-a-day.
+Leetcode style problems are almost unavoidable, but also tend to be a pain for most people applying for a software engineering role. As I'm sure the other people who have done Leetcode before know, it is hard to start and easy to put down. So, I want to make a system that holds us accountable to committing to a problem-a-day.
 
 ---
 
@@ -10,7 +10,7 @@ Leetcode style problems are almost unavoidable, but also tend to be a pain for m
 
 I will be sending one coding problem every day (even on weekends). All you have to do is send a screenshot of your completed code in a thread under the coding problem link.
 
-**Your goal shouldn't be to get the coding problem correct on first try.** Take 15 to 30 minutes working on the problem on your own. It's ok to look up syntax or the specific way something is written in the coding languare. If you pass the 30 minute mark and still can't solve it, then look up the answer online and understand how they got to the solution.
+**Your goal shouldn't be to get the solution on first try.** Take 15 to 30 minutes working on the problem on your own. It's ok to look up syntax or the specific way something is written in the coding language. If you pass the 30 minute mark and still can't solve it, then look up the answer online and understand how they got to the solution.
 
 ### Running Your Code
 
