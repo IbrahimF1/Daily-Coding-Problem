@@ -66,7 +66,9 @@ Click on the ```+``` Icon on the bottom of your screen.
 
 Select the image of your code from your computer.
 
-Click on the Eye Icon to blur your image. 
+Click on the Eye Icon to blur your image.
+
+<img width="271" height="257" alt="image" src="https://github.com/user-attachments/assets/60d442bf-3102-4a7b-95aa-6ebb67ccaadc" />
 
 Your submission should look like this.
 
@@ -89,7 +91,5 @@ Right click on my message.
 Click on Create Thread.
 
 <img width="227" height="626" alt="image" src="https://github.com/user-attachments/assets/d33365a4-ce02-4dbc-ad22-b007abcbec64" />
-
-<img width="271" height="257" alt="image" src="https://github.com/user-attachments/assets/60d442bf-3102-4a7b-95aa-6ebb67ccaadc" />
 
 Press enter to Submit!
