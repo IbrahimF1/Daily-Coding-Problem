@@ -68,6 +68,10 @@ Select the image of your code from your computer.
 
 Click on the Eye Icon to blur your image. 
 
+Your submission should look like this.
+
+<img width="450" height="371" alt="image" src="https://github.com/user-attachments/assets/61fdb1cd-51a0-4c03-ad8b-7eb35a92aa79" />
+
 ### Opening an Existing Thread
 
 Navigate to the ```#leetcode``` channel on the left sidebar.
