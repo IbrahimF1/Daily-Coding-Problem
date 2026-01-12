@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
@@ -13,4 +15,10 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
+        if p.val < root.val and q.val < root.val:
+            return self.lowestCommonAncestor(root.left, p, q)
         
+        if p.val > root.val and q.val > root.val:
+            return self.lowestCommonAncestor(root.right, p, q)
+
+        return root
