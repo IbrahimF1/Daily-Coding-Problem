@@ -8,7 +8,16 @@ class Solution(object):
         :rtype: int
         """
         left = 0
-        right = len(nums) - 1
-        center = (right+left)//2
+        right = len(nums)
+        
         while left < right:
-            if center ==
+            center = (right+left)//2
+            if nums[center] == target:
+                return center
+
+            if nums[center] > target:
+                right = center # don't include - 1
+            if nums[center] < target:
+                left = center + 1
+
+        return left
